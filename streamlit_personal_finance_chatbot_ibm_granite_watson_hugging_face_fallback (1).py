@@ -1,3 +1,26 @@
+# Title:
+# Personal Finance Chatbot: Intelligent Guidance for Savings, Taxes, and Investments
+
+# Description:
+# The "Personal Finance Chatbot" project aims to develop an intelligent conversational AI system that leverages IBM's generative AI models and Watson services to provide personalized financial guidance. This initiative will harness advanced natural language processing (NLP) capabilities within the IBM ecosystem to answer user questions about savings, taxes, and investments, offer generated budget summaries, and suggest actionable spending insights. A core innovation will be the chatbot's ability to adapt its tone and complexity through IBM's AI to suit different user demographics, specifically distinguishing between students and professionals. By providing accessible, tailored financial information and analysis powered by IBM's cutting-edge AI, this project seeks to empower individuals to make more informed financial decisions and improve their overall financial literacy and well being.
+
+# Expected Solutions :
+# 1) Personalized Financial Guidance – Delivers customized advice on savings, taxes, and 
+# investments based on individual user profiles and queries. 
+# 2) AI-Generated Budget Summaries – Automatically generates detailed, easy-to-understand 
+# budget summaries to help users track and manage their finances. 
+# 3) Spending Insights and Suggestions – Provides actionable insights on spending habits and 
+# offers recommendations to optimize expenses. 
+# 4) Demographic-Aware Communication – Adjusts tone, complexity, and language based on 
+# user type (e.g., student vs. professional) to enhance user engagement and understanding. 
+# 5) Conversational NLP Experience – Utilizes IBM's generative AI and Watson NLP capabilities to enable natural, fluid, and context-aware interactions.
+
+# Technologies & Tools :
+# Python, Streamlit, HuggingFace, Granite
+
+# Referece:
+# https://docs.google.com/document/d/1eHmH3QJtLF3utwVACrY9yqJ5rCkKJQhS/edit?tab=t.0
+
 import os
 import io
 import re
