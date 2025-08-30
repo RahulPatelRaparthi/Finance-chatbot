@@ -1,0 +1,5 @@
+streamlit>=1.29.0
+pandas>=1.5.0
+transformers>=4.35.0
+# For IBM Granite/Watson, add (if using real API):
+# ibm-watson>=6.0.0
